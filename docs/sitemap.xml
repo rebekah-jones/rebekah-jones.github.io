@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>index.qmd/cv/index.html</loc>
+    <loc>index.qmd/old-home.html</loc>
     <lastmod>2025-07-03T01:11:40.000Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/poetry/index.html</loc>
+    <loc>index.qmd/teaching/index.html</loc>
     <lastmod>2025-07-03T01:11:40.000Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/about/index.html</loc>
+    <loc>index.qmd/index.html</loc>
     <lastmod>2025-07-03T01:11:40.000Z</lastmod>
   </url>
   <url>
@@ -61,11 +61,11 @@
     <lastmod>2025-07-03T01:11:40.000Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/index.html</loc>
+    <loc>index.qmd/poetry/index.html</loc>
     <lastmod>2025-07-03T01:11:40.000Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/teaching/index.html</loc>
+    <loc>index.qmd/cv/index.html</loc>
     <lastmod>2025-07-03T01:11:40.000Z</lastmod>
   </url>
 </urlset>

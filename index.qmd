@@ -1,15 +1,11 @@
 ---
 title: "Zachary Lorico Hertz"
 subtitle: "Ph.D. Student at UC Berkeley"
-image: media/headshot.JPG
+image: ../media/golden_gate.jpg
 toc: false
-format:
-  html:
-    theme: 
-      - assets/home_styles.scss
 about: 
-  template: jolla
-  image-shape: round
+  template: trestles
+  image-shape: rounded
   image-width: 20em
   links:
     - text: LinkedIn
@@ -26,8 +22,10 @@ about:
       href: https://www.twitter.com/zacharylhertz/
 ---
 
-Welcome to my website! 
+# Hey, it's good to see you here!
 
-I am a researcher, political consultant, and data journalist driven by an interest in communities. <br> In my research, I use geocoded observational data and original survey data to understand questions at the intersection of **political behavior, identity politics, local politics, and American political institutions**. <br> I love my friends, talking about political problems, and being outside. Sometimes all at once!
+Thanks for taking the time to get to know me. My name is Zachary Lorico Hertz and I am a third-year Ph.D. student at UC Berkeley. I study how identities develop, are expressed through political behavior, and intersect with power in local politics. In my research, I use causal inference methods, geocoded large-N observational data, and original survey data to study the effects an increasingly diverse and partisan electorate will have on representation and sub-national institutions. My writing has been featured in academic and popular outlets, including the Election Law Journal and the Washington Post. 
 
-Learn more [about me here](https://zacharylhertz.github.io/about/), check out [my research](https://zacharylhertz.github.io/research/), or [say hi](mailto:zachary_hertz@berkeley.edu?subject=Hi!)!
+Currently, I am the Programming and Data Manager at the [Berkeley IGS Poll](https://igs.berkeley.edu/research/berkeley-igs-poll). Previously, I worked as an Analyst at Data for Progress, where I fielded and analyzed polling data for a number of clients in progressive politics. In addition to my academic research, I have done independent political consulting for Groundwork Project, Data for Progress, and private clients. I received an M.A. from the University of Chicago, and a B.A. from Tufts University. I also write poetry, with work forthcoming in [Yearling](https://workhorsewriters.com/feedback/), [LEON Literary Magazine](https://leonliteraryreview.com/), and [Eulogy Press](https://eulogy.press/#read).
+
+While much of my time is devoted to reading, writing, or coding, I enjoy hiking, quiz bowl, and both performing and producing music in my spare time. I am in a band with other Ph.D. students called [Good Bones](https://www.instagram.com/goodbones_band/), named for [the poem](https://www.poetryfoundation.org/poems/89897/good-bones) by Maggie Smith (no, not that one). Send me an email and let's talk more!
