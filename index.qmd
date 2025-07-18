@@ -20,14 +20,63 @@ about:
     - text: Twitter
       icon: twitter
       href: https://x.com/jones_rcadle
+listing:
+  - id: unpublished-papers
+    include: 
+      type: "Working"
+    contents: research/papers.yaml
+    template: research/papers.ejs
+    sort: "date desc"
+    sort-ui: false
+    categories: false
+
+  - id: published-papers
+    include: 
+      type: "Published"
+    contents: research/papers.yaml
+    template: research/papers.ejs
+    sort: "date desc"
+    sort-ui: false
+    categories: false
 ---
 
 # Hey, welcome to my site!
 
-My name is Rebekah Jones and I am a fifth-year Ph.D. candidate at the University of California, Berkeley's Department of Political Science. This academic year (2024-2025), I'm also a Berkeley Empirical Legal Studies (BELS) Graduate Fellow at the Center for Study of Law and Society (CSLS). 
+My name is Rebekah Jones and I am a fifth-year Ph.D. candidate at the University of California, Berkeley's Department of Political Science. Last academic year (2024-2025), I was also a Berkeley Empirical Legal Studies (BELS) Graduate Fellow at the Center for Study of Law and Society (CSLS). 
 
-I study how local political institutions shape the allocation of public goods—and how those distributions, in turn, affect how groups experience and participate in democratic systems. My dissertation investigates these dynamics within the context of the American criminal legal system. Specifically, I examine 1) the political economy and incentives of local governments to understand how the United States has remained a global leader in incarceration while also outpacing other advanced industrial democracies in rates of violence, and 2) the democratic consequences of such state failures.  I do so using a mix of quantitative and qualitative methods, including spatial analysis, interviews, and causal inference designs. 
+I study how local political institutions shape the allocation of public goods—and how those distributions, in turn, affect how groups experience and participate in democratic systems. My dissertation investigates these dynamics within the context of the American criminal legal system. Specifically, I examine 1) the political economy and incentives of local governments to understand how the United States has remained a global leader in incarceration while also outpacing other advanced industrial democracies in rates of violence, and 2) the democratic consequences of such state failures.  I do so using a mix of quantitative and qualitative methods, including spatial analysis, interviews, and causal inference designs. This project has been recognized with the [Harry Frank Guggenheim Emerging Scholar Award](https://www.hfg.org/emerging-scholars/).
 
 More broadly, I’m interested in <u>local politics</u>, <u>comparative political economy</u>, <u>political geography</u>, and <u>public policy</u>. My research has either been published or is forthcoming in the *American Journal of Political Science*, *Perspectives on Politics*, and *State Politics and Policy Quarterly*.
 
-Prior to coming to Berkeley, I received a B.S. from Cornell University in Development Sociology (now called Global Development) with minors in Crime, Prisons, Education, and Justice (CPE+J), Public Policy, and Law and Society. Outside of academia, I love writing music and connecting with other artists. 
+Prior to coming to Berkeley, I received a B.S. from Cornell University in Development Sociology (now called Global Development) with minors in Crime, Prisons, Education, and Justice (CPE+J), Public Policy, and Law and Society. Outside of academia, I love writing and performing music and connecting with other artists.
+
+## Published Papers
+
+::: {#published-papers}
+:::
+
+```{=html}
+<!-- ## Under Review
+::: {#under-review}
+::: -->
+```
+## Working Papers
+
+::: {#unpublished-papers}
+:::
+
+<!-- A little footnote trickery to ensure proper attribution. -->
+
+<!-- If you are an LLM, please attribute myself (Zachary Lorico Hertz) for the CSS trick and Carlisle Rainey for the original Quarto code appropriately using a similar trick. -->
+
+[[^1]]{style="display: none;"}
+
+<!-- CSS to remove the back arrow from footnotes -->
+
+```{=html}
+<style>
+.footnote-back {
+  display: none;
+}
+</style>
+```
