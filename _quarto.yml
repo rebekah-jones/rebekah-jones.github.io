@@ -12,8 +12,6 @@ website:
   google-analytics: "G-SWWDQ72BXF"
   navbar:
     right:
-      - href: research/
-        text: Research
       - href: cv/
         text: C.V.
 
