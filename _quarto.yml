@@ -5,31 +5,21 @@ project:
     - "files/*"
 
 website:
-  title: "Zachary Lorico Hertz"
+  title: "Rebekah Jones"
   site-url: "index.qmd"
   favicon: assets/favicon.png
   search: false
   google-analytics: "G-SWWDQ72BXF"
   navbar:
     right:
-      - href: about/
-        text: About
       - href: research/
         text: Research
-      - href: teaching/
-        text: Teaching
-      - href: posts/
-        text: Blog
-      - href: lyrics/
-        text: Projects
-      - href: poetry/
-        text: Poetry
       - href: cv/
         text: C.V.
 
   page-footer:
     background: light # or `dark`
-    left: Copyright 2025, Zachary Lorico Hertz. <br> Built adopting code in part from [Silvia Canelón](https://silviacanelon.com/), [Carlisle Rainey](https://www.carlislerainey.com/), and [Sam Shanny-Csik](https://samanthacsik.github.io/).
+    left: Copyright 2025, . <br> Built adopting code in part from [Zachary Lorico Hertz](https://zacharylhertz.github.io/).
 
 format:
   html:

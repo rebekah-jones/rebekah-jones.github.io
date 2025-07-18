@@ -1,7 +1,7 @@
 ---
-title: "Rebekah JOnes"
+title: "Rebekah Jones"
 subtitle: "Ph.D. Candidate at UC Berkeley"
-image: ../media/headshot.png
+image: media/headshot.png
 toc: false
 about: 
   template: trestles
@@ -22,10 +22,12 @@ about:
       href: https://x.com/jones_rcadle
 ---
 
-# Hey, it's good to see you here!
+# Hey, welcome to my site!
 
-Thanks for taking the time to get to know me. My name is Zachary Lorico Hertz and I am a third-year Ph.D. student at UC Berkeley. I study how identities develop, are expressed through political behavior, and intersect with power in local politics. In my research, I use causal inference methods, geocoded large-N observational data, and original survey data to study the effects an increasingly diverse and partisan electorate will have on representation and sub-national institutions. My writing has been featured in academic and popular outlets, including the Election Law Journal and the Washington Post. 
+My name is Rebekah Jones and I am a fifth-year Ph.D. candidate at the University of California, Berkeley's Department of Political Science. This academic year (2024-2025), I'm also a Berkeley Empirical Legal Studies (BELS) Graduate Fellow at the Center for Study of Law and Society (CSLS). 
 
-Currently, I am the Programming and Data Manager at the [Berkeley IGS Poll](https://igs.berkeley.edu/research/berkeley-igs-poll). Previously, I worked as an Analyst at Data for Progress, where I fielded and analyzed polling data for a number of clients in progressive politics. In addition to my academic research, I have done independent political consulting for Groundwork Project, Data for Progress, and private clients. I received an M.A. from the University of Chicago, and a B.A. from Tufts University. I also write poetry, with work forthcoming in [Yearling](https://workhorsewriters.com/feedback/), [LEON Literary Magazine](https://leonliteraryreview.com/), and [Eulogy Press](https://eulogy.press/#read).
+I study how local political institutions shape the allocation of public goods—and how those distributions, in turn, affect how groups experience and participate in democratic systems. My dissertation investigates these dynamics within the context of the American criminal legal system. Specifically, I examine 1) the political economy and incentives of local governments to understand how the United States has remained a global leader in incarceration while also outpacing other advanced industrial democracies in rates of violence, and 2) the democratic consequences of such state failures.  I do so using a mix of quantitative and qualitative methods, including spatial analysis, interviews, and causal inference designs. 
 
-While much of my time is devoted to reading, writing, or coding, I enjoy hiking, quiz bowl, and both performing and producing music in my spare time. I am in a band with other Ph.D. students called [Good Bones](https://www.instagram.com/goodbones_band/), named for [the poem](https://www.poetryfoundation.org/poems/89897/good-bones) by Maggie Smith (no, not that one). Send me an email and let's talk more!
+More broadly, I’m interested in \underline{local politics}, \underline{comparative political economy}, \underline{political geography}, and \underline{public policy}. My research has either been published or forthcoming in the American Journal of Political Science, Perspectives on Politics, and State Politics and Policy Quarterly. 
+
+Prior to coming to Berkeley, I received a B.S. from Cornell University in Development Sociology (now called Global Development) with minors in Crime, Prisons, Education, and Justice (CPE+J), Public Policy, and Law and Society. Outside of academia, I love writing music and connecting with other artists. 
