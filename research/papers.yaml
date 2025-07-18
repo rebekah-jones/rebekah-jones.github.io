@@ -9,7 +9,7 @@
   # note: 'This is a test note that appears at the bottom. It can contain <a href="https://example.com">HTML links</a> and other formatting as needed.'
   abstract: "One of the most enduring critiques of American policing is its uneven responsiveness to communities at the racial and economic margins---those often most in need of public safety services yet least empowered to demand and influence them. This study investigates how institutional reforms aimed at reducing participatory inequality affect racial disparities in policing outcomes across California municipalities. I exploit two exogenous shifts linked to increased turnout among racially minoritized groups: (1) the adoption of district-based elections following the California Voting Rights Act (CVRA), and (2) statewide mandates transitioning local elections from off-cycle to on-cycle timing. Using these reforms as quasi-natural experiments, I find that efforts to broaden civic participation are associated with modest improvements in police responsiveness, as measured by overall clearance rates. However, these gains do not consistently extend to more acute indicators of service equity---such as racial inequality in homicide clearance rates and 911 response times. Notably, the shift to district elections appears to exacerbate representational inequality. To explore potential mechanisms, I analyze municipal deliberation patterns using text data from city council meeting minutes. Findings suggest that representational venues themselves may reinforce disparities in public service responsiveness, even in the wake of formal institutional reform."
 
-- title: "Enclaves of Isolation: Violence and Political Participation in U.S. Cities (Conditonally Accepted)"
+- title: "Enclaves of Isolation: Violence and Political Participation in U.S. Cities (Conditonally Accepted) at the <em>American Journal of Political Science</em>"
   type: "Working"
   author:
     - Rebekah Jones
@@ -32,7 +32,10 @@
 - title: "A validation and extension of state-level public policy mood: 1956–2020"
   type: "Published"
   author:
+    - Julius Lagodny
     - Rebekah Jones
+    - Julianna Koch
+    - Peter K. Enns
   date: 2023-09-05
   year: 2023
   status: "Published"
@@ -45,6 +48,7 @@
   type: "Published"
   author:
     - Rebekah Jones
+    - Lisa Miller
   date: 2024-10-05
   year: 2024
   status: "Published"
