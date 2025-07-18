@@ -42,7 +42,7 @@ listing:
 
 # Hey, welcome to my site!
 
-My name is Rebekah Jones and I am a fifth-year Ph.D. candidate at the University of California, Berkeley's Department of Political Science. Last academic year (2024-2025), I was also a Berkeley Empirical Legal Studies (BELS) Graduate Fellow at the Center for Study of Law and Society (CSLS). 
+My name is Rebekah Jones and I am a sixth-year Ph.D. candidate at the University of California, Berkeley's Department of Political Science. Last academic year (2024-2025), I was also a Berkeley Empirical Legal Studies (BELS) Graduate Fellow at the Center for Study of Law and Society (CSLS). 
 
 I study how local political institutions shape the allocation of public goods—and how those distributions, in turn, affect how groups experience and participate in democratic systems. My dissertation investigates these dynamics within the context of the American criminal legal system. Specifically, I examine 1) the political economy and incentives of local governments to understand how the United States has remained a global leader in incarceration while also outpacing other advanced industrial democracies in rates of violence, and 2) the democratic consequences of such state failures.  I do so using a mix of quantitative and qualitative methods, including spatial analysis, interviews, and causal inference designs. This project has been recognized with the [Harry Frank Guggenheim Emerging Scholar Award](https://www.hfg.org/emerging-scholars/).
 
