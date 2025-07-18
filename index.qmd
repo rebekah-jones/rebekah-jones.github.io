@@ -1,7 +1,7 @@
 ---
-title: "Zachary Lorico Hertz"
-subtitle: "Ph.D. Student at UC Berkeley"
-image: ../media/golden_gate.jpg
+title: "Rebekah JOnes"
+subtitle: "Ph.D. Candidate at UC Berkeley"
+image: ../media/headshot.png
 toc: false
 about: 
   template: trestles
@@ -10,16 +10,16 @@ about:
   links:
     - text: LinkedIn
       icon: linkedin
-      href: https://www.linkedin.com/in/zacharylhertz/
+      href: https://www.linkedin.com/in/rebekah-jones/
     - text: GitHub
       icon: github
-      href: https://github.com/zacharylhertz
+      href: https://github.com/rebekah-jones
     - text: Email
       icon: envelope
-      href: mailto:zachary_hertz@berkeley.edu
+      href: mailto:rebekah_jones@berkeley.edu
     - text: Twitter
       icon: twitter
-      href: https://www.twitter.com/zacharylhertz/
+      href: https://x.com/jones_rcadle
 ---
 
 # Hey, it's good to see you here!
