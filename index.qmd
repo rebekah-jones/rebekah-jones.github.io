@@ -1,7 +1,7 @@
 ---
 title: "Rebekah Jones"
 subtitle: "Ph.D. Candidate at UC Berkeley"
-image: media/headshot.png
+image: media/Jones_2025.png
 toc: false
 about: 
   template: trestles
