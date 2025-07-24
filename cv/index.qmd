@@ -2,5 +2,5 @@
 title: "C.V."
 ---
 
-For your convenience, you can download a PDF copy of my CV <a href="https://berkeley.box.com/s/ku51thcq538cshk3bfzo6xumb6n5y70q" target="_blank">here</a>.
+For your convenience, you can download a PDF copy of my CV <a href="https://rebekah-jones.github.io/files/jones-cv.pdf" target="_blank">here</a>.
 
