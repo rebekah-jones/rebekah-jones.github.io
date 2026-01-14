@@ -42,7 +42,7 @@ listing:
 
 ## Welcome to my site!
 
-I am a Ph.D. candidate in the University of California, Berkeley's Department of Political Science. In 2026-2027, I will be a Postdoctoral Fellow at the Center for the Study of Democratic Politics at Princeton University. In fall 2027, I will join the [Johns Hopkins School of Government and Policy](https://sogp.jhu.edu/) as an Assistant Professor.
+I am a Ph.D. candidate in the University of California, Berkeley's Department of Political Science. In 2026-2027, I will be a Postdoctoral Fellow at the Center for the Study of Democratic Politics at Princeton University. In fall 2027, I will join the Johns Hopkins School of Government and Policy as an Assistant Professor.
 
 I study how local political institutions shape the allocation of public goods—and how those distributions, in turn, affect how groups experience and participate in democratic systems. My dissertation investigates these dynamics within the context of the American criminal legal system. Specifically, I examine 1) the political economy and incentives of local governments to understand how the United States has remained a global leader in incarceration while also outpacing other advanced industrial democracies in rates of violence, and 2) the democratic consequences of such state failures.  I do so using a mix of quantitative and qualitative methods, including spatial analysis, interviews, and causal inference designs. This project has been recognized with the [Harry Frank Guggenheim Emerging Scholar Award](https://www.hfg.org/hfg-welcomes-its-2025-emerging-scholars/).
 
